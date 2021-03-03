@@ -1904,10 +1904,10 @@
   resolved "https://registry.yarnpkg.com/@icons/material/-/material-0.2.4.tgz#e90c9f71768b3736e76d7dd6783fc6c2afa88bc8"
   integrity sha512-QPcGmICAPbGLGb6F/yNf/KzKqvFx8z5qx3D1yFqVAjoFmXK35EgyW+cJ57Te3CNsmzblwtzakLGFqHPqrfb4Tw==
 
-"@interactjs/types@1.9.22":
-  version "1.9.22"
-  resolved "https://registry.yarnpkg.com/@interactjs/types/-/types-1.9.22.tgz#1504d3170b062555b03ee8eb954ae653b7f614e2"
-  integrity sha512-GMMMCYE+FPrKCOOOqQ/ImpqLyinb6e8psw9MR9ymTJxnkmJMKrY/GDC/187PVxpWdtSqW+GibkeRfUCOv6vFjg==
+"@interactjs/types@1.10.5":
+  version "1.10.5"
+  resolved "https://registry.yarnpkg.com/@interactjs/types/-/types-1.10.5.tgz#e642e0577fbcd729ea94a7f029ab9100b421d952"
+  integrity sha512-76JFmyTHUBtYQ/SkrfuyAGWWcy6kqJCX8CtMZ5BihAruEND6Fj7ejNxHdWjFruRTP6JGYLnhD7IdPdkcbyHVxA==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.0.0"
@@ -8946,11 +8946,11 @@ inquirer@6.5.0:
     through "^2.3.6"
 
 interactjs@^1.4.0-rc.13:
-  version "1.9.22"
-  resolved "https://registry.yarnpkg.com/interactjs/-/interactjs-1.9.22.tgz#5ae98d2dd46d720cccdb89222b4e1ddcbe5cfeb9"
-  integrity sha512-zUQefYtYJTazWKqDCSYV0vMJPFWp/PKXwpA3v75fD3+4+4J3/ItjlO7K3L1CpNWYU6s8uoEmwwOD6uDy6OoI/w==
+  version "1.10.5"
+  resolved "https://registry.yarnpkg.com/interactjs/-/interactjs-1.10.5.tgz#9c54731d639b9ed7aa523e4df13aca571c3f714f"
+  integrity sha512-vx+ZgON7zIpnRKCAu9rVWeGGUCbNqu2VabsH9QTMi+y9JAsByA/SYEtqRwdBX4DChngEmKgn7B8TS7hf0oAUnw==
   dependencies:
-    "@interactjs/types" "1.9.22"
+    "@interactjs/types" "1.10.5"
 
 internal-ip@^4.3.0:
   version "4.3.0"
